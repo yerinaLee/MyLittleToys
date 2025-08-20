@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3TOWhHoIHA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\MyLittleToys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

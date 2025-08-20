@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyLittleToys.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AOT_Hotkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Win, C</Value>
+    </Setting>
+    <Setting Name="Text_Hotkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Win, V</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
