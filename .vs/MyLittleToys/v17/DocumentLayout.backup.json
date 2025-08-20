@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Publish.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -45,25 +48,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Microsoft.NET.Publish.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Publish.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Publish.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Publish.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Publish.targets",
+              "ViewState": "AgIAAEYEAAAAAAAAAAD4v1sEAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-20T04:12:09.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAPkUAAAAAAAAAAAAABgVAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIVAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-08-20T02:47:44.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T02:47:44.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyLittleToys",
+              "DocumentIndex": 4,
+              "Title": "MyLittleToys.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\MyLittleToys.csproj",
               "RelativeDocumentMoniker": "MyLittleToys\\MyLittleToys.csproj",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\MyLittleToys.csproj",
@@ -74,12 +93,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MyLittleToys",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\MyLittleToys.csproj",
               "RelativeDocumentMoniker": "MyLittleToys\\MyLittleToys.csproj",
@@ -90,12 +105,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "MyLittleToys\\Form1.Designer.cs",
@@ -103,12 +114,11 @@
               "RelativeToolTip": "MyLittleToys\\Form1.Designer.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAtwCwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:25:39.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T02:25:39.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OverlayForm.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\OverlayForm.cs",
               "RelativeDocumentMoniker": "MyLittleToys\\OverlayForm.cs",
@@ -116,12 +126,11 @@
               "RelativeToolTip": "MyLittleToys\\OverlayForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T02:03:14.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T02:03:14.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HotkeyTextBox.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\HotkeyTextBox.cs",
               "RelativeDocumentMoniker": "MyLittleToys\\HotkeyTextBox.cs",
@@ -129,12 +138,11 @@
               "RelativeToolTip": "MyLittleToys\\HotkeyTextBox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T05:52:36.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T05:52:36.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HighlightForm.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\HighlightForm.cs",
               "RelativeDocumentMoniker": "MyLittleToys\\HighlightForm.cs",
@@ -142,12 +150,11 @@
               "RelativeToolTip": "MyLittleToys\\HighlightForm.cs",
               "ViewState": "AgIAABYAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T04:20:52.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T04:20:52.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\Form1.cs",
               "RelativeDocumentMoniker": "MyLittleToys\\Form1.cs",
@@ -155,12 +162,11 @@
               "RelativeToolTip": "MyLittleToys\\Form1.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAgwG8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T02:13:47.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:13:47.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SettingsForm.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyLittleToys\\MyLittleToys\\SettingsForm.cs",
               "RelativeDocumentMoniker": "MyLittleToys\\SettingsForm.cs",
@@ -168,8 +174,11 @@
               "RelativeToolTip": "MyLittleToys\\SettingsForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T02:28:23.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:28:23.222Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
